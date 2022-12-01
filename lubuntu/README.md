@@ -1,5 +1,7 @@
 # Lubuntu Theming
 
+foldername change - lubuntu-themeing
+
 1. [LXQT Theme](https://www.opendesktop.org/browse?cat=446) styles the panel, runner & main menu
 
 2. [Kvantum](https://store.kde.org/browse?cat=123) Theme for Qt-based apps
