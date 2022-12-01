@@ -9,10 +9,9 @@
 4. [Plasma Color Schemes](https://store.kde.org/browse?cat=112)
 Using KDE apps will require related color scheme. For example, if you choose the ArcKvantum theme with kvantum, and you want your KDE apps to not only have the right colors but a seamingless appearance (no light spots or whatever). Usually one choose the color scheme with the app itself.
 
-5. [Konsole/qterminal Themes](https://store.kde.org/browse?cat=462)
-konsole themes work for qterminal
-
-6. [Openbox](https://www.box-look.org/browse?cat=140) themes for default Lubuntu window manager
+5. [Openbox](https://www.box-look.org/browse?cat=140) themes for default Lubuntu Window manager Openbox.
+ 
+6. [Konsole/qterminal Themes](https://store.kde.org/browse?cat=462) konsole themes work for qterminal
 
 
 lxqt-config-appearance only look for the new standard . The new standard says it should be located in
@@ -29,9 +28,10 @@ lxqt-config-appearance only look for the new standard . The new standard says it
 | Openbox | `~/.themes/`|  |
 
 
+| Themes | LXQT Panel | Kvantum | GTK | Plasma Color Schemes | Openbox | Konsole/qterminal |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Arc | ----- | ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 
-
-
-
-Credit goes to Ahsan David
+Credit goes to Ahsan David. Blame him.
