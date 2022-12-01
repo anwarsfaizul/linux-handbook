@@ -13,3 +13,9 @@
 | Nightfox Dusk GTK Theme       | [Github](https://github.com/Fausto-Korpsvart/Nightfox-GTK-Theme)    | [Pling](https://www.pling.com/p/1929101/) |
 | Rosé Pine GTK Theme           | [Github](https://github.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme)   | [Pling](https://www.pling.com/p/1810530/) |
 | Tokyonight GTK Theme          | [Github](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) | [Pling](https://www.pling.com/p/1681315/) |
+
+https://rosepinetheme.com/themes
+
+https://draculatheme.com/
+
+https://www.nordtheme.com/
