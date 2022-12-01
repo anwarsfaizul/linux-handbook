@@ -15,12 +15,20 @@ konsole themes work for qterminal
 
 lxqt-config-appearance only look for the new standard . The new standard says it should be located in
 
-+ LXQt Themes `~/.local/share/lxqt/themes` | `/usr/share/lxqt/themes`
-+ GTK Themes `~/.local/share/themes` | `/usr/share/themes`
-+ Icons `~/.local/share/icons`
-+ Fonts `~/.local/share/fonts`
-+ KDE Color Scheme `~/.local/share/color-schemes`
-+ qterminal Color Scheme `~/.config/qterminal.org/color-schemes/`
+
+| Theme Elements | User Based | Systemwide |
+| ----- | ----- | ----- |
+| LXQt Themes     | `~/.local/share/lxqt/themes` | `/usr/share/lxqt/themes` |
+| GTK Themes | `~/.local/share/themes` | `/usr/share/themes`|
+| Icons | `~/.local/share/icons` |  |
+| Fonts | `~/.local/share/fonts` |  |
+| KDE Color Scheme | `~/.local/share/color-schemes` |  |
+| qterminal Color Scheme | `~/.config/qterminal.org/color-schemes/` |  |
+| Openbox | `~/.themes/`|  |
+
+
+
+
 
 
 
