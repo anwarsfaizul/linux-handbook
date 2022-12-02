@@ -36,7 +36,8 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 
 ### Extras
 
-##### Arc Firefox theme - [Arc](https://addons.mozilla.org/en-US/firefox/addon/arc-theme-we/), [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/) & (Arc Darker)[https://addons.mozilla.org/en-US/firefox/addon/arc-darker-theme-we/] from Firefox Add-ons
+##### Arc Firefox theme
+[Arc](https://addons.mozilla.org/en-US/firefox/addon/arc-theme-we/), [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/) & [Arc Darker](https://addons.mozilla.org/en-US/firefox/addon/arc-darker-theme-we/) from Firefox Add-ons
 
 ##### [Chrome/Chromium theme](https://chrome.google.com/webstore/detail/arc-dark/adicoenigffoolephelklheejpcpoolk?hl=en) from Chrome Webstore. 
 
