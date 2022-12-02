@@ -1,1 +1,1 @@
-records a personal journey of author.
+the begining of the end.
