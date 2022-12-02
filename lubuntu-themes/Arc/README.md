@@ -33,20 +33,18 @@ Arc is available in four variants. Arc Lighter possibly GTK Only.
 
 ### Extras
 
-##### Arc Firefox theme
-[Arc](https://addons.mozilla.org/en-US/firefox/addon/arc-theme-we/), [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/) & [Arc Darker](https://addons.mozilla.org/en-US/firefox/addon/arc-darker-theme-we/) from Firefox Add-ons
++ Arc Firefox theme - [Arc](https://addons.mozilla.org/en-US/firefox/addon/arc-theme-we/), [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/) & [Arc Darker](https://addons.mozilla.org/en-US/firefox/addon/arc-darker-theme-we/) from Firefox Add-ons
 
-##### [Chrome/Chromium theme](https://chrome.google.com/webstore/detail/arc-dark/adicoenigffoolephelklheejpcpoolk?hl=en) from Chrome Webstore. 
++ [Chrome/Chromium theme](https://chrome.google.com/webstore/detail/arc-dark/adicoenigffoolephelklheejpcpoolk?hl=en) from Chrome Webstore. 
 
-##### [Plank theme](https://github.com/horst3180/arc-theme/tree/master/extra/Arc-Plank)
++ [Plank theme](https://github.com/horst3180/arc-theme/tree/master/extra/Arc-Plank)
 To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
 Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
 
-##### VLC theme
-[VLC Skin](https://github.com/varlesh/VLC-Arc-Dark) — Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
++ [VLC Skin](https://github.com/varlesh/VLC-Arc-Dark) — Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
 
-##### Arc-Dark for Ubuntu Software Center
++ Arc-Dark for Ubuntu Software Center
 The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
 
-##### Arc Icon theme
++ Arc Icon theme
 Unfinished [Arc Icon theme](https://github.com/horst3180/arc-icon-theme) is available which may not work as expected in some cases. This theme mainly includes icons for folders and mimetypes. If this theme doesn't provide application icons, it needs another icon theme to inherit them. By default this theme will look for the [Moka icon theme](https://snwh.org/moka) to get the missing icons. If Moka is not installed it will use the Gnome icon theme as fallback.
