@@ -7,7 +7,15 @@ Arc is a flat theme with transparent elements. The theme was originally designed
 Arc theme for the Openbox window manager created by [dglava](https://github.com/dglava/arc-openbox)
 
 
-### Arc is available in four variants.
+
+| Arc | [LXQT Panel](https://gitlab.com/isseigx/lxqt-arc-dark-theme) | [Kvantum](https://github.com/PapirusDevelopmentTeam/arc-kde) | [GTK](https://github.com/jnsh/arc-theme) | [Plasma Color Schemes](https://github.com/PapirusDevelopmentTeam/arc-kde) | [Openbox](https://github.com/dglava/arc-openbox) | [Konsole/qterminal](https://github.com/PapirusDevelopmentTeam/arc-kde)|
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+
+###### Lubuntu provides a variant of Arc theme called Lubuntu colors by default. 
+
+
+
+#### Arc is available in four variants.
 
 ##### Arc
 
@@ -26,28 +34,21 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 ![A screenshot of the Arc-Lighter theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-lighter-prv.png)
 
 
-
-| LXQT Panel | Kvantum | GTK | Plasma Color Schemes | Openbox | Konsole/qterminal |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-
-
-
 ### Extras
 
-##### Arc Firefox theme
-A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
+##### Arc Firefox theme - [Arc](https://addons.mozilla.org/en-US/firefox/addon/arc-theme-we/), [Arc Dark](https://addons.mozilla.org/en-US/firefox/addon/arc-dark-theme-we/) & (Arc Darker)[https://addons.mozilla.org/en-US/firefox/addon/arc-darker-theme-we/] from Firefox Add-ons
 
-##### Arc icon theme
-The Arc icon theme is available at https://github.com/horst3180/arc-icon-theme
+##### [Chrome/Chromium theme](https://chrome.google.com/webstore/detail/arc-dark/adicoenigffoolephelklheejpcpoolk?hl=en) from Chrome Webstore. 
 
-##### Chrome/Chromium theme
-To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag and drop the arc-theme.crx or arc-dark-theme.crx file into the Chrome/Chromium window. The source of the Chrome themes is located in the source "Chrome/arc-theme" folder.
-
-##### Plank theme
+##### (Plank theme)[https://github.com/horst3180/arc-theme/tree/master/extra/Arc-Plank]
 To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
 Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
+
+##### VLC theme
+[VLC Skin](https://github.com/varlesh/VLC-Arc-Dark) — Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
 
 ##### Arc-Dark for Ubuntu Software Center
 The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
 
+##### Arc Icon theme
+Unfinished [Arc Icon theme](https://github.com/horst3180/arc-icon-theme) is available which may not work as expected in some cases. This theme mainly includes icons for folders and mimetypes. If this theme doesn't provide application icons, it needs another icon theme to inherit them. By default this theme will look for the [Moka icon theme](https://snwh.org/moka) to get the missing icons. If Moka is not installed it will use the Gnome icon theme as fallback.
