@@ -13,8 +13,7 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 ###### Lubuntu provides a variant of Arc LXQt theme called Lubuntu Arc by default. 
 
 
-
-#### Arc is available in four variants.
+Arc is available in four variants. Arc Lighter posibly GTK Only.
 
 ##### Arc
 
