@@ -23,11 +23,13 @@ lxqt-config-appearance only look for the new standard . The new standard says it
 | ----- | ----- | ----- |
 | LXQt Themes     | `~/.local/share/lxqt/themes` | `/usr/share/lxqt/themes` |
 | GTK Themes | `~/.local/share/themes` | `/usr/share/themes`|
+| KDE Color Scheme | `~/.local/share/color-schemes` |  |
+| Kvantum | `Kvantum Manager> Install/Update Theme` |  |
+| Openbox | `~/.themes/`|  |
 | Icons | `~/.local/share/icons` |  |
 | Fonts | `~/.local/share/fonts` |  |
-| KDE Color Scheme | `~/.local/share/color-schemes` |  |
 | qterminal Color Scheme | `~/.config/qterminal.org/color-schemes/` |  |
-| Openbox | `~/.themes/`|  |
+
 
 
 | Themes | LXQT Panel | Kvantum | GTK | Plasma Color Schemes | Openbox | Konsole/qterminal |
