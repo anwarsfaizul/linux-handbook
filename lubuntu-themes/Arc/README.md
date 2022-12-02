@@ -7,11 +7,10 @@ Arc is a flat theme with transparent elements. The theme was originally designed
 Arc theme for the Openbox window manager created by [dglava](https://github.com/dglava/arc-openbox)
 
 
-
-| Arc | [LXQT Panel](https://gitlab.com/isseigx/lxqt-arc-dark-theme) | [Kvantum](https://github.com/PapirusDevelopmentTeam/arc-kde) | [GTK](https://github.com/jnsh/arc-theme) | [Plasma Color Schemes](https://github.com/PapirusDevelopmentTeam/arc-kde) | [Openbox](https://github.com/dglava/arc-openbox) | [Konsole/qterminal](https://github.com/PapirusDevelopmentTeam/arc-kde)|
+| Arc Theme Element | [LXQT Panel](https://gitlab.com/isseigx/lxqt-arc-dark-theme) | [Kvantum](https://github.com/PapirusDevelopmentTeam/arc-kde) | [GTK](https://github.com/jnsh/arc-theme) | [Plasma Color Schemes](https://github.com/PapirusDevelopmentTeam/arc-kde) | [Openbox](https://github.com/dglava/arc-openbox) | [Konsole/qterminal](https://github.com/PapirusDevelopmentTeam/arc-kde)|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
-###### Lubuntu provides a variant of Arc theme called Lubuntu colors by default. 
+###### Lubuntu provides a variant of Arc LXQt theme called Lubuntu Arc by default. 
 
 
 
