@@ -40,7 +40,7 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 
 ##### [Chrome/Chromium theme](https://chrome.google.com/webstore/detail/arc-dark/adicoenigffoolephelklheejpcpoolk?hl=en) from Chrome Webstore. 
 
-##### (Plank theme)[https://github.com/horst3180/arc-theme/tree/master/extra/Arc-Plank]
+##### [Plank theme](https://github.com/horst3180/arc-theme/tree/master/extra/Arc-Plank)
 To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
 Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
 
