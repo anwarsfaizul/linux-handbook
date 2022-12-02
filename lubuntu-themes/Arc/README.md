@@ -9,7 +9,8 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 | Arc Theme Elements | [LXQT Panel](https://gitlab.com/isseigx/lxqt-arc-dark-theme) | [Kvantum](https://github.com/PapirusDevelopmentTeam/arc-kde) | [GTK](https://github.com/jnsh/arc-theme) | [Plasma Color Schemes](https://github.com/PapirusDevelopmentTeam/arc-kde) | [Openbox](https://github.com/dglava/arc-openbox) | [Konsole/qterminal](https://github.com/PapirusDevelopmentTeam/arc-kde)|
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
-+ Lubuntu provides a variant of Arc LXQt theme called Lubuntu Arc by default. 
++ Lubuntu provides a variant of Arc LXQt theme called Lubuntu Arc by default.
++ [SDDM](https://github.com/Rokin05/SDDM-Themes)
 
 
 Arc is available in four variants. Arc Lighter possibly GTK Only.
