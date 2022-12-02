@@ -1,5 +1,4 @@
 # Arc Theme
- A flat theme with transparent elements 
 Arc is a flat theme with transparent elements. The theme was originally designed and developed by [horst3180](https://github.com/horst3180/arc-theme), however an active fork has been maintained by [jnsh](https://github.com/jnsh/arc-theme) which is getting fixes. This fork aims to keep the theme updated with new toolkit and desktop environment versions, resolve pre-existing issues, and improve and polish the theme while preserving the original visual design. Arc-Darker created by [Narrat](https://github.com/Narrat). 
 
 [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)  is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras
@@ -13,7 +12,7 @@ Arc theme for the Openbox window manager created by [dglava](https://github.com/
 ###### Lubuntu provides a variant of Arc LXQt theme called Lubuntu Arc by default. 
 
 
-Arc is available in four variants. Arc Lighter posibly GTK Only.
+Arc is available in four variants. Arc Lighter possibly GTK Only.
 
 ##### Arc
 
