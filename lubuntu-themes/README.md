@@ -35,6 +35,7 @@ Credit goes to Ahsan David. If anything goes wrong, blame him.
 
 notes
 + https://github.com/kuroehanako/breeze-extended
++ https://github.com/alvatip/Nordzy-icon
 
 + https://github.com/addy-dclxvi/openbox-theme-collections
 + https://github.com/yeyushengfan258/Endless-kde
