@@ -32,3 +32,9 @@ lxqt-config-appearance only look for the new standard . The new standard says it
 
 
 Credit goes to Ahsan David. If anything goes wrong, blame him.
+
+
+notes
++ https://github.com/addy-dclxvi/openbox-theme-collections
++ https://github.com/yeyushengfan258/Endless-kde
+
