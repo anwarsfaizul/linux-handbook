@@ -1,6 +1,5 @@
 # Lubuntu Theming
 
-foldername change - lubuntu-themeing
 
 1. [LXQT Theme](https://www.opendesktop.org/browse?cat=446) styles the panel, runner & main menu
 
@@ -35,6 +34,8 @@ Credit goes to Ahsan David. If anything goes wrong, blame him.
 
 
 notes
++ https://github.com/kuroehanako/breeze-extended
+
 + https://github.com/addy-dclxvi/openbox-theme-collections
 + https://github.com/yeyushengfan258/Endless-kde
 
