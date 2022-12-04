@@ -38,5 +38,8 @@ notes
 + https://github.com/alvatip/Nordzy-icon
 
 + https://github.com/addy-dclxvi/openbox-theme-collections
++ https://github.com/fikriomar16/OBTheme-Collections
+
+
 + https://github.com/yeyushengfan258/Endless-kde
 
