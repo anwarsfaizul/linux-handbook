@@ -39,6 +39,13 @@ notes
 
 + https://github.com/addy-dclxvi/openbox-theme-collections
 + https://github.com/fikriomar16/OBTheme-Collections
++ https://github.com/dbb/openbox-themes-deb
++ https://github.com/appath/MyThemes
++ https://github.com/XsiSec/openbox_themes
++ https://github.com/RaulCote/openbox-themes
++ https://github.com/hsully03/Nordic-Openbox
+
+
 
 
 + https://github.com/yeyushengfan258/Endless-kde
