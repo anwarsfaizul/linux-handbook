@@ -25,7 +25,8 @@ lxqt-config-appearance only look for the new standard . The new standard says it
 | KDE Color Scheme | `~/.local/share/color-schemes` |  |
 | Kvantum | `Kvantum Manager> Install/Update Theme` |  |
 | Openbox | `~/.themes/`|  |
-| Icons | `~/.local/share/icons` |  |
+| Icons | `~/.local/share/icons` | `~/.icons` |
+| Mouse Cursor | `~/.local/share/icons` | `~/.icons` |
 | Fonts | `~/.local/share/fonts` |  |
 | qterminal Color Scheme | `~/.config/qterminal.org/color-schemes/` |  |
 
